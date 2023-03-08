@@ -1,0 +1,15 @@
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\bin\Debug\net6.0\Example001_HelloConsle.exe
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\bin\Debug\net6.0\Example001_HelloConsle.deps.json
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\bin\Debug\net6.0\Example001_HelloConsle.runtimeconfig.json
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\bin\Debug\net6.0\Example001_HelloConsle.dll
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\bin\Debug\net6.0\Example001_HelloConsle.pdb
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\Example001_HelloConsle.csproj.AssemblyReference.cache
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\Example001_HelloConsle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\Example001_HelloConsle.AssemblyInfoInputs.cache
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\Example001_HelloConsle.AssemblyInfo.cs
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\Example001_HelloConsle.csproj.CoreCompileInputs.cache
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\Example001_HelloConsle.dll
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\refint\Example001_HelloConsle.dll
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\Example001_HelloConsle.pdb
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\Example001_HelloConsle.genruntimeconfig.cache
+C:\Users\khush\Desktop\Изучение языка C#\Example001_HelloConsle\obj\Debug\net6.0\ref\Example001_HelloConsle.dll
